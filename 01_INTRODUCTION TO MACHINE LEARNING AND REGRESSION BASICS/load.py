@@ -1,4 +1,3 @@
-
 # load pkl file  function and pridict
 import joblib 
 import pandas as pd
