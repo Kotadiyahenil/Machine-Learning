@@ -1,5 +1,5 @@
 import pandas as pd
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify # type: ignore
 import pickle
 
 app = Flask(__name__)
